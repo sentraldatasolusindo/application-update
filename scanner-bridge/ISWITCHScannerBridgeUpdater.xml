@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <item>
-  <version>1.0.0.0</version>
+  <version>1.0.1.0</version>
   <url>https://github.com/sentraldatasolusindo/iswitch-update/raw/main/scanner-bridge/ISWITCH_ECM_Scanner_Bridge_Setup.exe</url>
   <checksum algorithm="MD5">217C98C957122E82CDBD63F5C4D8B853</checksum>
   <mandatory>true</mandatory>
